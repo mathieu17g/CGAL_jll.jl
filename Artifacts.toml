@@ -1,0 +1,6 @@
+[CGAL]
+git-tree-sha1 = "27c2c3a230109d38e7df1c584fb45add362fb1e5"
+
+    [[CGAL.download]]
+    sha256 = "be4a7f7fa3f5674115a1de68fbf4641142e291a0db9efe83043ff417e23c8713"
+    url = "https://github.com/mathieu17g/CGAL_jll.jl/releases/download/CGAL-v5.3.1+0/CGAL.v5.3.1.any.tar.gz"
